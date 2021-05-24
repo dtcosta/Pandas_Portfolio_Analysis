@@ -82,7 +82,7 @@ Investment managers and their institutional investors look at the return-to-risk
 
 ### Create a Custom Portfolio
 
-Harold is ecstatic that you were able to help him prove that the algorithmic trading portfolios are doing so well compared to the market and whales portfolios. However, now you are wondering whether you can choose your own portfolio that performs just as well as the algorithmic portfolios. Investigate by doing the following:
+Now we are wondering whether you can choose your own portfolio that performs just as well as the algorithmic portfolios. Investigate by doing the following:
 
 1. Visit [Google Sheets](https://docs.google.com/spreadsheets/) and use the built-in Google Finance function to choose 3-5 stocks for your portfolio.
 
@@ -100,7 +100,7 @@ Harold is ecstatic that you were able to help him prove that the algorithmic tra
     * Calculate and plot beta for your portfolio compared to the S&P 60 TSX.
     * Calculate the Sharpe ratios and generate a bar plot.
 
-4. How does your portfolio do?
+4. How does the portfolio perform?
 
    ![Portfolio Returns](Resources/port_return.png)
 
