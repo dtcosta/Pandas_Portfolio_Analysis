@@ -4,12 +4,6 @@
 
 ## Background
 
-## Questions to be answered
-
-## Steps Taken 
-
-## Conclusion
-
 Time to apply quantitative analysis techniques with Python and Pandas, to help determine which portfolio is performing the best across multiple areas: volatility, returns, risk, and Sharpe ratios.
 
 You need to create a tool (an analysis notebook) that analyzes and visualizes the major metrics of the portfolios across all of these areas, and determine which portfolio outperformed the others. You will be given the historical daily returns of several portfolios: some from the firm's algorithmic portfolios, some that represent the portfolios of famous "whale" investors like Warren Buffett, and some from the big hedge and mutual funds. You will then use this analysis to create a custom portfolio of stocks and compare its performance to that of the other portfolios, as well as the larger market ([S&P 500 Index](https://en.wikipedia.org/wiki/S%26P/TSX_60)).
@@ -22,12 +16,7 @@ Three main tasks:
 
 3. [Choose and Evaluate a Custom Portfolio](#Create-a-Custom-Portfolio)
 
----
-
 ## Instructions
-
-**File:** [Whale Analysis Starter Code](Starter_Code/whale_analysis.ipynb)
-
 
 ### Prepare the Data
 
@@ -49,7 +38,7 @@ First, read and clean several CSV files for analysis. The CSV files include whal
 
 5. Join `Whale Returns`, `Algorithmic Returns`, and the `S&P 500 Returns` into a single DataFrame with columns for each portfolio's returns.
 
-    ![returns-dataframe.png](Images/returns-dataframe.png)
+    ![Returns](Resources/returns.png)
 
 ### Conduct Quantitative Analysis
 
@@ -113,7 +102,7 @@ Harold is ecstatic that you were able to help him prove that the algorithmic tra
 
 4. How does your portfolio do?
 
----
+   ![Portfolio Returns](Resources/port_return.png)
 
 ## Resources Used 
 
